@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="personal.AccountApiTest" tests="5" skipped="5" failures="0" errors="0" timestamp="2021-02-26T11:11:39" hostname="DESKTOP-4AQREJC" time="0.0">
+  <properties/>
+  <testcase name="accountsDepositTransactionsUsingGETTest" classname="personal.AccountApiTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="accountsUsingGETTest" classname="personal.AccountApiTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="visaTransactionsUsingGETTest" classname="personal.AccountApiTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="transactionsUsingGETTest" classname="personal.AccountApiTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="balancesUsingGETTest" classname="personal.AccountApiTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
